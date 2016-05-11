@@ -44,7 +44,7 @@ module.exports = new Script({
                 }
 
                 if (!_.has(scriptRules, upperText)) {
-                    return bot.say(`I didn't understand that.`).then(() => 'speak');
+                    return bot.say(`I didn't understand that. What do you wanna do?\n%[Show me the activities](postback:activities)`).then(() => 'speak');
                 }
 
                 var response = scriptRules[upperText];

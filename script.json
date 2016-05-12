@@ -1,5 +1,5 @@
 {
-    "Hello": "Hi there!\nI’m the personal Majordomo of Qiweez, ready to entertain you! %[Show me the activities](postback:activities)",
+    "HELLO": "Hi there!\nI’m the personal Majordomo of Qiweez, ready to entertain you! %[Show me the activities](postback:activities)",
     "HI": "Hello dear Qiweez!\nWhat would rock your boat today ? %[Show me the activities](postback:activities)",
     "RESTART": "So, what would rock your boat today ?\n%[Show me the activities](postback:activities)",
     "SHOW ME THE ACTIVITIES": "(Affichage de la rosace) %[Swimming](postback:swimming) %[Karaoke](postback:karaoke) %[Movie](postback:movies)",
